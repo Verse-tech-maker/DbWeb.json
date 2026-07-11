@@ -1,25 +1,25 @@
 {
   "coomingsoon": [
     {
-      "image": "https://files.catbox.moe/contoh1.jpg",
-      "title": "Villa Luxury Ubud",
-      "date": "Q4 2026"
+      "image": "https://files.catbox.moe/0h5t6o.jpg",
+      "title": "null",
+      "date": "null"
     }
   ],
   "ontheway": [
     {
-      "image": "https://files.catbox.moe/contoh2.jpg",
-      "title": "Rumah Modern Bogor",
-      "progress": "60% Selesai",
-      "team": "Tim Lumina + Partner",
-      "date": "Update 12 Juli 2026"
+      "image": "https://files.catbox.moe/3q1i2a.jpg",
+      "title": "null",
+      "progress": "null",
+      "team": "Architecture Wahyudi Studio",
+      "date": "null"
     }
   ],
   "succes": [
     {
-      "image": "https://files.catbox.moe/contoh3.jpg",
-      "title": "Residence Jakarta",
-      "date": "2025 • Selesai Mei"
+      "image": "https://files.catbox.moe/ew3cdx.jpg",
+      "title": "null",
+      "date": "null"
     }
   ]
 }
