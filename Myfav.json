@@ -1,6 +1,25 @@
 {
-  "username": "buyer", 
-  "password": "123",
-  "key": "321",
-  "createdAt": "2024-01-15T11:00:00.000Z"
+  "coomingsoon": [
+    {
+      "image": "https://files.catbox.moe/contoh1.jpg",
+      "title": "Villa Luxury Ubud",
+      "date": "Q4 2026"
+    }
+  ],
+  "ontheway": [
+    {
+      "image": "https://files.catbox.moe/contoh2.jpg",
+      "title": "Rumah Modern Bogor",
+      "progress": "60% Selesai",
+      "team": "Tim Lumina + Partner",
+      "date": "Update 12 Juli 2026"
+    }
+  ],
+  "succes": [
+    {
+      "image": "https://files.catbox.moe/contoh3.jpg",
+      "title": "Residence Jakarta",
+      "date": "2025 • Selesai Mei"
+    }
+  ]
 }
