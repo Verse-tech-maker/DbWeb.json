@@ -3,7 +3,8 @@
     {
       "image": "https://files.catbox.moe/0h5t6o.jpg",
       "title": "null",
-      "date": "null"
+      "date": "null",
+      "description": "penjelasan..."
     }
   ],
   "ontheway": [
@@ -12,14 +13,16 @@
       "title": "null",
       "progress": "null",
       "team": "Architecture Wahyudi Studio",
-      "date": "null"
+      "date": "null",
+      "description": "penjelasan..."
     }
   ],
   "succes": [
     {
       "image": "https://files.catbox.moe/ew3cdx.jpg",
       "title": "null",
-      "date": "null"
+      "date": "null",
+      "description": "penjelasan..."
     }
   ]
 }
