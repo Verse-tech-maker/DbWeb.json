@@ -1,4 +1,21 @@
 {
+  "workers": [
+    {
+      "name": "Dmeyonss",
+      "title": "Founder",
+      "photo": "https://files.catbox.moe/0h5t6o.jpg"
+    },
+    {
+      "name": "Dmeyon",
+      "title": "CEO",
+      "photo": "https://files.catbox.moe/0h5t6o.jpg"
+    },
+    {
+      "name": "Dmeon",
+      "title": "Worker",
+      "photo": "https://files.catbox.moe/0h5t6o.jpg"
+    }
+  ],
   "coomingsoon": [
     {
       "image": "https://files.catbox.moe/0h5t6o.jpg",
