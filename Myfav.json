@@ -1,4 +1,32 @@
 {
+  "company": {
+    "photo": "https://files.catbox.moe/0girov.jpg",
+    "prakata": "IDK",
+    "services": [
+      {
+        "title": "Arsitektur",
+        "desc": "Desain bangunan dari konsep hingga pelaksanaan."
+      },
+      {
+        "title": "Interior Design",
+        "desc": "Penciptaan ruang interior yang elegan dan fungsional."
+      }
+    ]
+  },
+  "journals": [
+    {
+      "title": "IDK",
+      "date": "17 Juli 2026",
+      "excerpt": "Panduan lengkap memilih material dan struktur...",
+      "image": "https://files.catbox.moe/0girov.jpg"
+    },
+    {
+      "title": "IDK",
+      "date": "15 Juli 2026",
+      "excerpt": "Tips desain dan pencahayaan untuk ruang makan...",
+      "image": "https://files.catbox.moe/0girov.jpg"
+    }
+  ],
   "workers": [
     {
       "name": "Dmeyonss",
@@ -23,8 +51,36 @@
       "date": "IDK",
       "description": "penjelasan..."
     }
+    {
+      "image": "https://files.catbox.moe/0h5t6o.jpg",
+      "title": "IDK",
+      "date": "IDK",
+      "description": "penjelasan..."
+    }
+    {
+      "image": "https://files.catbox.moe/0h5t6o.jpg",
+      "title": "IDK",
+      "date": "IDK",
+      "description": "penjelasan..."
+    }
   ],
   "ontheway": [
+    {
+      "image": "https://files.catbox.moe/9nkns8.jpg",
+      "title": "IDK",
+      "progress": "IDK",
+      "team": "Architecture Wahyudi Studio",
+      "date": "IDK",
+      "description": "penjelasan..."
+    },
+    {
+      "image": "https://files.catbox.moe/9nkns8.jpg",
+      "title": "IDK",
+      "progress": "IDK",
+      "team": "Architecture Wahyudi Studio",
+      "date": "IDK",
+      "description": "penjelasan..."
+    },
     {
       "image": "https://files.catbox.moe/9nkns8.jpg",
       "title": "IDK",
@@ -35,6 +91,18 @@
     }
   ],
   "succes": [
+    {
+      "image": "https://files.catbox.moe/ew3cdx.jpg",
+      "title": "IDK",
+      "date": "IDK",
+      "description": "penjelasan..."
+    },
+    {
+      "image": "https://files.catbox.moe/ew3cdx.jpg",
+      "title": "IDK",
+      "date": "IDK",
+      "description": "penjelasan..."
+    },
     {
       "image": "https://files.catbox.moe/ew3cdx.jpg",
       "title": "IDK",
